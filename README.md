@@ -1,7 +1,7 @@
 - Hi, I’m Mohd Faizan Shaikh.
 - I’m passionate about Frontend development!
 - I’m currently learning React JS
-- I’m looking to new opportunities.
+- I’m looking for new opportunities.
 - 📫 Reach me here -- m.faizaaansk@gmail.com
 
   My Tech stack includes :
