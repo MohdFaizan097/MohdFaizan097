@@ -1,3 +1,7 @@
+
+![ai-bg](https://github.com/MohdFaizan097/MohdFaizan097/assets/144053005/c2456eb8-7efe-42bb-8de3-9a73a0a027c6)
+
+
 - Hi, I’m Mohd Faizan Shaikh.
 - I’m passionate about Frontend development!
 - I’m currently learning React JS
