@@ -1,6 +1,4 @@
-<img width = 100px>
-![ai-bg](https://github.com/MohdFaizan097/MohdFaizan097/assets/144053005/c2456eb8-7efe-42bb-8de3-9a73a0a027c6)
-</img>
+
 
 
 - Hi, I’m Mohd Faizan Shaikh.
