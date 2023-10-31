@@ -11,7 +11,7 @@ But wait, there's more! I'm not just about design and user interfaces; I'm also 
 ## Get in touch : 
 
 [<img height="25" width="25" src="https://cdn.simpleicons.org/X/563D7C" />](https://twitter.com/faizaaansk)&nbsp;&nbsp;&nbsp;
-[<img height="25" width="25" src="https://cdn.simpleicons.org/gmail/563D7C" />](m.faizaaansk@gmail.com)&nbsp;&nbsp;&nbsp;
+[<img height="25" width="25" src="https://cdn.simpleicons.org/gmail/563D7C" />](mailto:m.faizaaansk@gmail.com)&nbsp;&nbsp;&nbsp;
 
 
 ## Tech Stack : 
